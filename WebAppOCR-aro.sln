@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppOCR-aro", "WebAppOCR-aro\WebAppOCR-aro.csproj", "{0E0B82A3-9C85-4E38-B038-BF6BA0BB0B7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppOCR", "WebAppOCR\WebAppOCR.csproj", "{0E0B82A3-9C85-4E38-B038-BF6BA0BB0B7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
